@@ -1,6 +1,6 @@
 ### Hi there 👋
 I m' Sajal Kumar
-MERN STACK DEVELOPER
+(MERN STACK DEVELOPER)
 
 Currently Working on learning React Native + Working on a E-commerce mern stack web application.
 
