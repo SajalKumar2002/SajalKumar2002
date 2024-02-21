@@ -1,4 +1,10 @@
-### Hi there 👋[Sajal]
+### Hi there 👋
+I m' Sajal Kumar
+MERN STACK DEVELOPER
+
+Currently Working on learning React Native + Working on a E-commerce mern stack web application.
+
+
 
 <!--
 **SajalKumar2002/SajalKumar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
