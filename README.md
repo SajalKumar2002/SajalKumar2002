@@ -2,7 +2,7 @@
 I m' Sajal Kumar
 (MERN STACK DEVELOPER)
 
-Currently Working on learning React Native + Working on a E-commerce mern stack web application.
+Currently learning React Native + Working on a E-commerce mern stack web application with more than one vendors.
 
 
 
